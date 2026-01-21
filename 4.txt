@@ -1,8 +1,4 @@
 Four here
 Again
-<<<<<<< HEAD
 Again 222
-=======
-Again 4
 
->>>>>>> staging
